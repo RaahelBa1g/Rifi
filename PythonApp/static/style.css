@@ -74,6 +74,20 @@ button {
   height: 97vh;
 }
 
+.seven{
+  background-size: 40%
+  background-color: red;
+  border-radius: 15%;
+  color: rgba(100, 1, 1, 0.5);
+}
+
+.eight{
+  background-size: 40%;
+  background-color: blue;
+  border-radius: 20%;
+  color: rgba(1, 100, 1, 0.5);
+}
+
 .cta {
   outline: none;
   /* background: #f1f3f6; */
